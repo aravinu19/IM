@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "868370569937",
+    "firebase_url": "https://minimodulechat-c1761.firebaseio.com",
+    "project_id": "minimodulechat-c1761",
+    "storage_bucket": "minimodulechat-c1761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868370569937:android:97a011209c2e3aff",
+        "android_client_info": {
+          "package_name": "com.ivara.aravi.minimodulechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868370569937-obfnl96ruibsaui23i69b8vdocj4qun9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ivara.aravi.minimodulechat",
+            "certificate_hash": "b2295307986e64349184870113c813dcf4d30fb3"
+          }
+        },
+        {
+          "client_id": "868370569937-tu9jhcjarg5pcu7cq4jlmji0j53br32v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ivara.aravi.minimodulechat",
+            "certificate_hash": "e5b1437a39fc743616e4027c71ac9525859c8581"
+          }
+        },
+        {
+          "client_id": "868370569937-m3id843rlh60tciurkgk9945rtjfha35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPTyXNbW3C8lbSgyoMCq7rWIbQ0U-oIIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868370569937-m3id843rlh60tciurkgk9945rtjfha35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868370569937:android:e03082477114b059",
+        "android_client_info": {
+          "package_name": "com.example.aravi.effort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868370569937-9ifidktvfunmp555mvl9mvri8d1pl3su.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aravi.effort",
+            "certificate_hash": "60c7f9aa822a999655480cae8389733574e57f66"
+          }
+        },
+        {
+          "client_id": "868370569937-m3id843rlh60tciurkgk9945rtjfha35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPTyXNbW3C8lbSgyoMCq7rWIbQ0U-oIIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868370569937-m3id843rlh60tciurkgk9945rtjfha35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868370569937:android:270c5e7b674de678",
+        "android_client_info": {
+          "package_name": "com.periculam.aravi.im"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868370569937-ntjsvtdcam6d80kgbmkd6q83lbh03ltn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.periculam.aravi.im",
+            "certificate_hash": "b2295307986e64349184870113c813dcf4d30fb3"
+          }
+        },
+        {
+          "client_id": "868370569937-m3id843rlh60tciurkgk9945rtjfha35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPTyXNbW3C8lbSgyoMCq7rWIbQ0U-oIIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868370569937-m3id843rlh60tciurkgk9945rtjfha35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
